@@ -1,13 +1,13 @@
 {
-  "name": "memechat",
+  "name": "WaterchatServer",
   "version": "1.0.0",
   "description": "a fun chatting webpage for my boiizzz in the comments",
-  "main": "memeServer.js",
+  "main": "WaterchatServer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node WaterchatServer.js"
   },
-  "author": "rhymbil",
+  "author": "badal",
   "license": "ISC",
   "dependencies": {
     "balanced-match": "^1.0.0",
